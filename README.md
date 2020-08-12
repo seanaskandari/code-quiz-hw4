@@ -1,3 +1,28 @@
+
+Code Quiz
+
+In this homework assignement we were tasked to write code to create a quiz. 
+Starting from the ground up I created the foundation with html and styled the
+code with css. The functionality of the code was built with javascript. I found this
+assignment to be very time consuming. If I were given a little more time I think I
+would be able to sharpen it up as I was not able to get everything completely working.
+I will definitely be going back and tinkering with the code some more after I turn it 
+in because I want to finish this product. I'm starting to understand that coders never
+"finish" a project and that all projects can always be improved.
+
+
+-SA
+
+
+
+
+
+
+
+
+
+
+
 # 04 Web APIs: Code Quiz
 
 As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
